@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poonam Mittal!!</h1>
-<h3 align="center">I am an iOS Developer and MLAI Engineer from India</h3>
+<h3 align="center">I am an iOS Developer and MLAI Engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.techopedia.com/images/uploads/istock-1173805290.jpeg?w=800&h=0&mode=max&quality=70&scale=both">
 
@@ -9,12 +9,12 @@
 
 - 📫 Reach me at: **poonammittal246@gmail.com**
 
-- ⚡ **I love to code**
+- ⚡ I love to **code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/poonam-mittal-373283194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poonam-mittal-373283194" height="30" width="40" /></a>
-<a href="https://instagram.com/_mittal_poonam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_poonam_mittal" height="30" width="40" /></a>
+<a href="https://instagram.com/_poonam_mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_poonam_mittal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
