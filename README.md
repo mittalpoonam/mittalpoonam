@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittalpoonam&label=Profile%20views&color=0e75b6&style=flat" alt="mittalpoonam" /> </p>
 
-- 🔭 I’m currently pursuing **BTech in Computer Science**
+- 🔭 I have completed **BTech in Computer Science** in 2023.
 
 - 📫 Reach me at: **poonammittal246@gmail.com**
 
